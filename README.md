@@ -12,9 +12,9 @@
 
 - 🎓 Final Year CS student passionate about software development and problem-solving
 - 🌐 Experienced in building responsive web apps using **React.js, Bootstrap, and CSS**
-- 🤖 Worked on **AI-powered applications** like *Plaggenie* (an AI-based plagiarism detector & paraphraser)
-- 🔄 Integrated **external APIs**, credit systems, and dynamic frontend/backend workflows
-- 📊 Comfortable working with **SQL** databases and managing state in React apps
+- 🤖 Worked on **Web applications** like *Plaggenie* (a paraphraser & plagiarism detector)
+- 🔄 Integrated credit systems, and dynamic frontend/backend workflows
+- 📊 Comfortable working with **SQL** databases
 - 🧠 Currently improving skills in **Node.js, Python, and React.js**
 
 ---
